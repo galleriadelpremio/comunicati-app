@@ -35,5 +35,6 @@ DETTAGLI TECNICI:
 - Indirizzo: Via Don Bosco 2/A, Suzzara (MN).
 - Contatti standard: galleriapremio@comune.suzzara.mn.it | 0376 513513 | premiosuzzara.it | @galleriadelpremio (FB e IG).
 - Orari standard (se non specificati diversamente): dal martedì al venerdì 9-17, sabato 10-18.
+- Riporta sempre fedelmente i nomi propri, i titoli delle rassegne, delle mostre e degli eventi ESATTAMENTE come scritti dall'utente, senza modificarli, normalizzarli o correggerli.
 
 Scrivi solo il testo del comunicato, senza commenti o spiegazioni. Output puro.`
